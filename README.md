@@ -10,3 +10,4 @@
          
 - [ ] Information Theory, by James V. Stone.
 - [ ] A book of Set Theory, by Charles C. Pinter.
+- [ ] Proofs, by Jay Cummings.
