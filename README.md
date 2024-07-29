@@ -18,7 +18,13 @@
 - [ ] **The Dark Art of Linear Algebra. An Intuitive Geometric Approach** by Seth Braver
 - [ ] **Linear Algebra and Learning from Data** by Gilbert Strang
 - [ ] **Linear Algebra and Optimization for Machine Learning** by Charu C. Aggarwal
- 
+
+
+### Deep Learning
+
+- [ ] **Deep Learning Foundations and Concepts** by Christopher M. Bishop
+- [ ] **Geometry of Deep Learning** by Jong Chul Ye
+
 ### Others Topics
 
 - [ ] **Mathematics for Machine Learning** by Marc Peter Deisenroth
