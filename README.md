@@ -1,5 +1,76 @@
 # Books
 
+## 2024
+
+### September
+
+- [ ] **Proofs**, by Jay Cummings
+- [ ] **Deep Learning, Foundations and Concepts**, by Christopher M.Bishop
+
+### October
+
+- [ ] **Book of Proof**, by Richard Hammack
+- [ ] **Deep Learning, Foundations and Concepts**, by Christopher M.Bishop
+
+### November
+
+- [ ] **The Real Numbers**, by John Stillwell
+- [ ] **Deep Learning, Foundations and Concepts**, by Christopher M.Bishop
+
+### December
+
+- [ ] **Precalculus Made Difficult**, by Seth Braver
+- [ ] **Mathematics for Deep Learning**, by Marc Peter
+
+## 2025
+
+### January
+
+- [ ] **Full Frontal Calculus**, by Seth Braver
+- [ ] **Mathematics for Deep Learning**, by Marc Peter
+
+### February
+
+- [ ] **Introduction to Probability**, by Joseph K.Blitzstein
+- [ ] **Geometry of Deep Learning**, by Jong Chul Ye
+
+### March
+
+- [ ] **Information Theory**, by James Stone
+- [ ] **Geometry of Deep Learning**, by Jong Chul Ye
+
+### April
+
+- [ ] **The Dark Art of Linear Algebra**, by Seth Braver
+- [ ] **Geometry of Deep Learning**, by Jong Chul Ye
+
+### May
+
+- [ ] **Linear Algebra and Learning from Data**, by Gilbert Strang
+- [ ] **Geometry of Deep Learning**, by Jong Chul Ye
+
+### June
+
+- [ ] **Linear Algebra and Optimization for Machine Learning**, by Charu
+
+
+### July
+
+- [ ] **Basic Analysis I**, by Jiri Lebl
+
+
+### August
+
+- [ ] **Basic Analysis II**, by Jiri Lebl
+
+
+### Setember
+
+- [ ] **Introduction to Probability**, by Jay Cummings
+
+
+
+
 ### Fundamental
 
 - [ ] **Precalculus Made Difficult** by Seth Braver
