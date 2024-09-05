@@ -7,27 +7,24 @@
 - [ ] **Proofs**, by Jay Cummings
 - [ ] **Deep Learning, Foundations and Concepts**, by Christopher M.Bishop
 - [ ] [Proof Writing](https://www.youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-)
-- [ ] [Intro to Mathematical Reasoning](https://www.youtube.com/playlist?list=PLoxJTbDttvt5irjK-gD_bemI0IetyR7D6)
 
 ### October
 
 - [ ] **Book of Proof**, by Richard Hammack
-- [ ] **Deep Learning, Foundations and Concepts**, by Christopher M.Bishop
-- [ ] [HPI Math4ML](https://www.youtube.com/playlist?list=PLkxomGYFWp67infnvPmEcqyQqk0q6ntrY)
-- [ ] [Introduction to Machine Learning ](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT)
+- [ ] **Deep Learning, Foundations and Concepts**, by Christopher M.Bishop]
+- [ ] [Intro to Mathematical Reasoning](https://www.youtube.com/playlist?list=PLoxJTbDttvt5irjK-gD_bemI0IetyR7D6)
       
 ### November
 
 - [ ] **The Real Numbers**, by John Stillwell
 - [ ] **Deep Learning, Foundations and Concepts**, by Christopher M.Bishop
-- [ ] [HPI Deep Learning](https://www.youtube.com/playlist?list=PLkxomGYFWp65K_TuG2vxsnzf84WdDHLk0)
-- [ ] [Numerics of Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij2lwDdj7IkuHoP9vHlEcH0s)
+- [ ] [HPI Math4ML](https://www.youtube.com/playlist?list=PLkxomGYFWp67infnvPmEcqyQqk0q6ntrY)
      
 ### December
 
 - [ ] **Precalculus Made Difficult**, by Seth Braver
 - [ ] **Mathematics for Deep Learning**, by Marc Peter
-- [ ] [Numerics of Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij2lwDdj7IkuHoP9vHlEcH0s)
+- [ ] [Introduction to Machine Learning ](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT)
 
 ## 2025
 
@@ -47,11 +44,13 @@
 
 - [ ] **Information Theory**, by James Stone
 - [ ] **Geometry of Deep Learning**, by Jong Chul Ye
-
+- [ ] [Numerics of Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij2lwDdj7IkuHoP9vHlEcH0s)
+      
 ### April
 
 - [ ] **The Dark Art of Linear Algebra**, by Seth Braver
 - [ ] **Geometry of Deep Learning**, by Jong Chul Ye
+- [ ] [HPI Deep Learning](https://www.youtube.com/playlist?list=PLkxomGYFWp65K_TuG2vxsnzf84WdDHLk0)
 
 ### May
 
