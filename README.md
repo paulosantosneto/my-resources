@@ -21,14 +21,14 @@
 - [ ] Proofs, by **Jay Cummings**
 - [ ] Book of Proof, by **Richard Hammack**
 - [ ] Solving Mathematical Problems, by **Terence Tao**
-- [ ] Basic Analysis I
-- [ ] Basic Analysis II
+- [ ] Basic Analysis I, by **Jiří Lebl**
+- [ ] Basic Analysis II, by **Jiří Lebl**
 
 ## Algorithms
 
+- [ ] Mathematics for Computer Scientists, by **Peter Hartmann**
 - [ ] Algorithms Design, by **Jon Kleinberg**
 - [ ] Algorithms for Optimization, by **Mykel Kochenderfer**
-- [ ] Mathematics for Computer Scientists, by **Peter Hartmann**
 
 ## Deep Learning
 
