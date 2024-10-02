@@ -2,11 +2,15 @@
 
 ### 2022
 
+- [ ] [Locating and Editing Factual Associations in GPT](https://arxiv.org/abs/2202.05262)
+
 - [ ] [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) (2022)
 
 - [ ] [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171) (2022)
 
 ### 2023
+
+- [ ] [Towards a Mechanistic Interpretation of Multi-Step Reasoning Capabilities of Language Models](https://arxiv.org/abs/2310.14491)
 
 - [ ] [Contrastive Decoding Improves Reasoning in Large Language Models](https://arxiv.org/abs/2309.09117)
 
@@ -16,9 +20,21 @@
 
 - [ ] Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective
 
+- [ ] [Linearity of Relation Decoding in Transformer Language Models](https://arxiv.org/abs/2308.09124)
+
+### 2024
+
+
+- [ ] [Distributional reasoning in LLMs: Parallel reasoning process in multi-hop reasoning](https://arxiv.org/abs/2406.13858)
+
+- [ ] [Understanding and Patching Compositional Reasoning in LLMs](https://arxiv.org/abs/2402.14328)
+
+- [ ] [Do Large Language Models Latently Perform Multi-Hop Reasoning?]()
+
+- [ ] []()
 # Interpretability
 
-- [] [LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding](https://arxiv.org/pdf/2404.16710)
+- [ ] [LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding](https://arxiv.org/pdf/2404.16710)
 
 # Decoding
 
@@ -27,6 +43,8 @@
 - [ ] [Mirostat: A Neural Text Decoding Algorithm that Directly Controls Perplexity](https://arxiv.org/abs/2007.14966)
 
 ### 2022
+
+- [ ] [Constrative Search Is What You Need for Neural Text Generation](https://arxiv.org/abs/2210.14140)
 
 - [ ] [A Thorough Examination of Decoding Methods in the Era of LLMs](https://arxiv.org/abs/2402.06925)
 
@@ -65,15 +83,28 @@
 
 # Others
 
+### 2020
+
+- [ ] [Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/abs/2012.14913)
+
+- [ ] []()
+
 ### 2021
 
 - [x] [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) 
 
+### 2020
+
+- [ ] [Transformer Feed-Forward Layers Build Predictions by Promoting Concepts in the Vocabulary Space](https://arxiv.org/abs/2203.14680)
+
 ### 2023
+
+- [ ] [Dissecting Recall of Factual Associations in Auto-Regressive Language Models](https://arxiv.org/abs/2304.14767)
 
 - [ ] [LM-Infinite: Zero-Shot Extreme Length Generalization
 for Large Language Models](https://arxiv.org/abs/2308.16137)
-
+    
+    LM-Infinite applytwo techniques plug-in-play to solve three problems when thought about long input context. Authors show the viability that models pretrained on 4K tokens generalize to 200M tokens without decrease in performance. **Problems:** explosion of attention logits of sequences lengths that extrapolate pretrained bound limit, explosion of entropy for long sequences, and the intrinsic characteristic of isolation of starting new tokens.
 ### 2024
 
 - [ ] [Why Warmup the Learning Rate?
